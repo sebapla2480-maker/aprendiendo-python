@@ -1,0 +1,8 @@
+nombre = input("introducir tu nombre:")
+print("hola me llamo", nombre )
+edad = int(input("introducir tu edad:"))
+print("yo naci en", 2026 - edad)
+ciudad = input ("introducir tu ciudad:")
+print("yo vivo en", ciudad)
+comida_favorita = input ("introducir tu comida favorita:")
+print("mi comida favorita es", comida_favorita)
